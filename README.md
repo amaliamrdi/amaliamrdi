@@ -1,8 +1,8 @@
 ### Hi, amalia here 👋
 
-🌱 I’m currently learning Mobile Programming
-📫 How to reach me: 
-instagram : amaliaamrdi
+- 🌱 I’m currently learning Mobile Programming
+- 📫 How to reach me: 
+instagram : amaliamrdi
 email     : amaliaamriadi@gmail.com
 <!--
 **amaliamrdi/amaliamrdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
